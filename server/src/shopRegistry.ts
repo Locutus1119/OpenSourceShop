@@ -49,9 +49,9 @@ export const ShopRegistry: IShop[] = [
         blipScale: 1,
         data: {
             items: [
-                // {dbName: 'burger', price: 20},
-                // {dbName: 'bread', price: 20},
-                // {dbName: 'repair-kit', price: 20}
+                 {dbName: 'burger', price: 20},
+                 {dbName: 'bread', price: 20},
+                 {dbName: 'repair-kit', price: 20}
             ],
         },
         locations: ltdLocations,
@@ -64,9 +64,9 @@ export const ShopRegistry: IShop[] = [
         blipScale: 1,
         data: {
             items: [
-                // {dbName: 'burger', price: 20},
-                // {dbName: 'bread', price: 20},
-                // {dbName: 'repair-kit', price: 20}
+                 {dbName: 'burger', price: 20},
+                 {dbName: 'bread', price: 20},
+                 {dbName: 'repair-kit', price: 20}
             ],
         },
         locations: robsLiquorLocations,

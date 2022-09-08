@@ -21,5 +21,6 @@ export enum OSS_TRANSLATIONS {
 
 PluginSystem.registerPlugin(OSS.name, async () => {
     alt.log(`~lg~${OSS.name} ${OSS.version} successfully loaded.`);
-    ShopInitializer.startupShop();
+    //ShopInitializer.startupShop();
+    ShopInitializer.startupAllShops();
 });

@@ -1,0 +1,787 @@
+[
+  {
+    "Name": "APOLOGY_NO_TROUBLE"
+    
+  },
+  {
+    "Name": "BUMP"
+    
+  },
+  {
+    "Name": "BUMP"
+    
+  },
+  {
+    "Name": "CALL_COPS_COMMIT"
+    
+  },
+  {
+    "Name": "CALL_COPS_COMMIT"
+    
+  },
+  {
+    "Name": "CALL_COPS_THREAT"
+    
+  },
+  {
+    "Name": "CALL_COPS_THREAT"
+    
+  },
+  {
+    "Name": "CAR_HIT_PED_DRIVEN"
+    
+  },
+  {
+    "Name": "CAR_HIT_PED_DRIVEN"
+    
+  },
+  {
+    "Name": "CAR_HIT_PED_DRIVEN"
+    
+  },
+  {
+    "Name": "CAR_HIT_PED_DRIVEN"
+    
+  },
+  {
+    "Name": "CHAT_RESP"
+    
+  },
+  {
+    "Name": "CHAT_RESP"
+    
+  },
+  {
+    "Name": "CHAT_RESP"
+    
+  },
+  {
+    "Name": "CHAT_STATE"
+    
+  },
+  {
+    "Name": "CHAT_STATE"
+    
+  },
+  {
+    "Name": "CHAT_STATE"
+    
+  },
+  {
+    "Name": "DODGE"
+    
+  },
+  {
+    "Name": "FIGHT"
+    
+  },
+  {
+    "Name": "FIGHT"
+    
+  },
+  {
+    "Name": "FIGHT_RUN"
+    
+  },
+  {
+    "Name": "FIGHT_RUN"
+    
+  },
+  {
+    "Name": "GENERIC_BYE"
+    
+  },
+  {
+    "Name": "GENERIC_BYE"
+    
+  },
+  {
+    "Name": "GENERIC_BYE"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_MED"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_MED"
+    
+  },
+  {
+    "Name": "GENERIC_CURSE_MED"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_FRIGHTENED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_HI"
+    
+  },
+  {
+    "Name": "GENERIC_HI"
+    
+  },
+  {
+    "Name": "GENERIC_HI"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_MED"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_MED"
+    
+  },
+  {
+    "Name": "GENERIC_INSULT_MED"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_HIGH"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_SHOCKED_MED"
+    
+  },
+  {
+    "Name": "GENERIC_THANKS"
+    
+  },
+  {
+    "Name": "GENERIC_THANKS"
+    
+  },
+  {
+    "Name": "GENERIC_THANKS"
+    
+  },
+  {
+    "Name": "GENERIC_WHATEVER"
+    
+  },
+  {
+    "Name": "GENERIC_WHATEVER"
+    
+  },
+  {
+    "Name": "GENERIC_WHATEVER"
+    
+  },
+  {
+    "Name": "GUN_BEG"
+    
+  },
+  {
+    "Name": "GUN_BEG"
+    
+  },
+  {
+    "Name": "GUN_COOL"
+    
+  },
+  {
+    "Name": "KIFFLOM_GREET"
+    
+  },
+  {
+    "Name": "PED_RANT"
+    
+  },
+  {
+    "Name": "PHONE_CALL_COPS"
+    
+  },
+  {
+    "Name": "PHONE_CALL_COPS"
+    
+  },
+  {
+    "Name": "POLICE_PURSUIT_DRIVEN"
+    
+  },
+  {
+    "Name": "POLICE_PURSUIT_DRIVEN"
+    
+  },
+  {
+    "Name": "POLICE_PURSUIT_DRIVEN"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+    
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BANTER"
+  },
+  {
+    "Name": "SHOP_BRAVE"
+    
+  },
+  {
+    "Name": "SHOP_BRAVE"
+    
+  },
+  {
+    "Name": "SHOP_BRAVE"
+    
+  },
+  {
+    "Name": "SHOP_COPS_ARRIVED"
+    
+  },
+  {
+    "Name": "SHOP_COPS_ARRIVED"
+    
+  },
+  {
+    "Name": "SHOP_COPS_ARRIVED"
+    
+  },
+  {
+    "Name": "SHOP_EXTINGUISHER"
+    
+  },
+  {
+    "Name": "SHOP_EXTINGUISHER"
+    
+  },
+  {
+    "Name": "SHOP_GAVE_YOU_EVERYTHING"
+    
+  },
+  {
+    "Name": "SHOP_GAVE_YOU_EVERYTHING"
+    
+  },
+  {
+    "Name": "SHOP_GAVE_YOU_EVERYTHING"
+    
+  },
+  {
+    "Name": "SHOP_GOODBYE"
+    
+  },
+  {
+    "Name": "SHOP_GOODBYE"
+    
+  },
+  {
+    "Name": "SHOP_GOODBYE"
+    
+  },
+  {
+    "Name": "SHOP_GOODBYE"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+    
+  },
+  {
+    "Name": "SHOP_GREET"
+  },
+  {
+    "Name": "SHOP_GREET_END"
+    
+  },
+  {
+    "Name": "SHOP_GREET_END"
+    
+  },
+  {
+    "Name": "SHOP_GREET_END"
+    
+  },
+  {
+    "Name": "SHOP_GREET_SPECIAL"
+    
+  },
+  {
+    "Name": "SHOP_GREET_SPECIAL"
+    
+  },
+  {
+    "Name": "SHOP_GREET_START"
+    
+  },
+  {
+    "Name": "SHOP_GREET_START"
+    
+  },
+  {
+    "Name": "SHOP_GREET_START"
+    
+  },
+  {
+    "Name": "SHOP_GREET_UNUSUAL"
+    
+  },
+  {
+    "Name": "SHOP_GREET_UNUSUAL"
+    
+  },
+  {
+    "Name": "SHOP_GREET_UNUSUAL"
+    
+  },
+  {
+    "Name": "SHOP_HURRYING"
+    
+  },
+  {
+    "Name": "SHOP_HURRYING"
+    
+  },
+  {
+    "Name": "SHOP_HURRYING"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS_END"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS_END"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS_START"
+    
+  },
+  {
+    "Name": "SHOP_NO_COPS_START"
+    
+  },
+  {
+    "Name": "SHOP_NO_ENTRY"
+    
+  },
+  {
+    "Name": "SHOP_NO_ENTRY"
+    
+  },
+  {
+    "Name": "SHOP_NO_ENTRY"
+    
+  },
+  {
+    "Name": "SHOP_NO_FIGHTING"
+    
+  },
+  {
+    "Name": "SHOP_NO_FIGHTING"
+    
+  },
+  {
+    "Name": "SHOP_NO_FIGHTING"
+    
+  },
+  {
+    "Name": "SHOP_NO_MESSING"
+    
+  },
+  {
+    "Name": "SHOP_NO_MESSING"
+    
+  },
+  {
+    "Name": "SHOP_NO_MESSING"
+    
+  },
+  {
+    "Name": "SHOP_NO_WEAPON"
+    
+  },
+  {
+    "Name": "SHOP_NO_WEAPON"
+    
+  },
+  {
+    "Name": "SHOP_NO_WEAPON"
+    
+  },
+  {
+    "Name": "SHOP_OUT_OF_STOCK"
+    
+  },
+  {
+    "Name": "SHOP_OUT_OF_STOCK"
+    
+  },
+  {
+    "Name": "SHOP_OUT_OF_STOCK"
+    
+  },
+  {
+    "Name": "SHOP_POUR_CAN"
+    
+  },
+  {
+    "Name": "SHOP_POUR_CAN"
+    
+  },
+  {
+    "Name": "SHOP_REACT_TO_SHOUT"
+    
+  },
+  {
+    "Name": "SHOP_REACT_TO_SHOUT"
+    
+  },
+  {
+    "Name": "SHOP_REACT_TO_SHOUT"
+    
+  },
+  {
+    "Name": "SHOP_REACT_TO_SHOUT"
+    
+  },
+  {
+    "Name": "SHOP_REACT_TO_SHOUT"
+    
+  },
+  {
+    "Name": "SHOP_RECOGNISE"
+    
+  },
+  {
+    "Name": "SHOP_RECOGNISE"
+    
+  },
+  {
+    "Name": "SHOP_RECOGNISE"
+    
+  },
+  {
+    "Name": "SHOP_REMOVE_VEHICLE"
+    
+  },
+  {
+    "Name": "SHOP_REMOVE_VEHICLE"
+    
+  },
+  {
+    "Name": "SHOP_SCARED"
+    
+  },
+  {
+    "Name": "SHOP_SCARED"
+    
+  },
+  {
+    "Name": "SHOP_SCARED"
+    
+  },
+  {
+    "Name": "SHOP_SCARED"
+    
+  },
+  {
+    "Name": "SHOP_SCARED"
+    
+  },
+  {
+    "Name": "SHOP_SCARED_END"
+    
+  },
+  {
+    "Name": "SHOP_SCARED_END"
+    
+  },
+  {
+    "Name": "SHOP_SCARED_START"
+    
+  },
+  {
+    "Name": "SHOP_SCARED_START"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_SELL"
+    
+  },
+  {
+    "Name": "SHOP_STEAL"
+    
+  },
+  {
+    "Name": "SHOP_STEAL"
+    
+  },
+  {
+    "Name": "SHOP_STEAL"
+    
+  },
+  {
+    "Name": "SHOP_STUBBORN"
+    
+  },
+  {
+    "Name": "SHOP_STUBBORN"
+    
+  },
+  {
+    "Name": "SHOP_STUBBORN"
+    
+  },
+  {
+    "Name": "SHOP_THREATENED"
+    
+  },
+  {
+    "Name": "SHOP_THREATENED"
+    
+  },
+  {
+    "Name": "SHOP_THREATENED"
+    
+  },
+  {
+    "Name": "SHOP_THREATENED"
+    
+  },
+  {
+    "Name": "TAXI_FAIL"
+    
+  },
+  {
+    "Name": "TAXI_FAIL"
+    
+  },
+  {
+    "Name": "TAXI_GOOD"
+    
+  },
+  {
+    "Name": "TAXI_GOOD"
+    
+  },
+  {
+    "Name": "TAXI_HAIL"
+    
+  },
+  {
+    "Name": "TAXI_HAIL"
+    
+  },
+  {
+    "Name": "TAXI_NO_PAY"
+    
+  },
+  {
+    "Name": "TAXI_START"
+    
+  },
+  {
+    "Name": "TAXI_START"
+    
+  },
+  {
+    "Name": "TAXI_STOPPED"
+    
+  },
+  {
+    "Name": "TAXI_STOPPED"
+    
+  },
+  {
+    "Name": "TAXI_WHAT_THE_HELL"
+    
+  },
+  {
+    "Name": "TAXI_WHAT_THE_HELL"
+    
+  },
+  {
+    "Name": "VEHICLE_FLIPPED"
+    
+  },
+  {
+    "Name": "VEHICLE_FLIPPED"
+    
+  }
+]

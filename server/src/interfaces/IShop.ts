@@ -1,6 +1,8 @@
 import IShopListItem from './IShopListItem';
 import { Animation } from '../../../../../shared/interfaces/animation';
 import alt from "alt-server";
+import { IRobShop } from './IRobShop';
+
 
 export default interface IShop {
     _id?: string;
@@ -31,7 +33,19 @@ export interface IShopLocation {
         heading: number;
         pos: alt.Vector3;
         animations?: Animation[];
+        randomise?: boolean;
     }
+    robbery?: IRobShop;
+    colshape: colshape;
+}
+
+export interface colshape {
+    uid?: string;
+    minZ: number;
+    maxZ: number;
+    vertices: Array<alt.Vector2 | alt.Vector3>;
+    isPlayerOnly: boolean;
+    isVehicleOnly: boolean;
 }
 
 export enum ShopType {
